@@ -25,7 +25,7 @@ module tb_uart_debug();
 
     // Clock generation (50 MHz)
     initial clk = 0;
-    always #10 clk = ~clk; // 50 MHz (20 ns period)
+    always #10 clk = ~clk; 
 
     // Reset sequence
     initial begin
