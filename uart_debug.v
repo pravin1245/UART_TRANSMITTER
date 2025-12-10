@@ -2,7 +2,7 @@
 
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:Pravin Bhangare 
 // 
 // Create Date: 12/10/2025
 // Module Name: uart_debug
@@ -72,3 +72,4 @@ module uart_tx #(
     end
 
 endmodule
+
