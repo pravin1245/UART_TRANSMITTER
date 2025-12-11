@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN F14 [get_ports clk]
+set_property PACKAGE_PIN K1 [get_ports rst_n]
+set_property PACKAGE_PIN U11 [get_ports tx]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports rst_n]
+set_property IOSTANDARD LVCMOS33 [get_ports tx]
